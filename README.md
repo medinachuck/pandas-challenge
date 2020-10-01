@@ -1,4 +1,9 @@
 # Pandas Homework - Pandas, Pandas, Pandas
+## Observable Data Trends 
+* First Observation: The overwhelming majority of purchases were done by males, 652 purchases in comparison to 113 purchases done by females. Surprisingly however, females who did spend on an item spent slightly more on average than males ($4.47 to 4.07). 
+
+* Second Observation: The distribution of purchases by age shows a nice bell shape...with the target age group being people between the ages of 20-24 who spent the most and purchased the most number of items. 
+
 
 ## Introduction
 This is a repository to host Isaac Medina's work on USC Viterbi Data Analytics Bootcamp Pandas-Challenge. I chose to analyze: 
